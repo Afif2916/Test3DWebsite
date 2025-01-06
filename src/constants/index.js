@@ -134,25 +134,29 @@ export const projects = [
         iconUrl: eCutiLogo,
         theme: 'btn-back-red',
         description: 'Aplikasi Berbasis Web dan penyedia API untuk Pengajuan Cuti di PT Sumbersolusindo Hitech',
-        link: 'https://github.com/Afif2916/E-Cuti'
+        link: 'https://github.com/Afif2916/E-Cuti',
+        name: "E-Cuti Hybrid"
     },
     {
         iconUrl: miningLogo,
         theme: 'btn-back-blue',
         description: 'Aplikasi Berbasis Web Untuk Menghitung Ketepatan pengiriman barang menggunakan Algoritma C4.5 di Perushaan logistik JNE yang memiliki layanan YES',
-        link: 'https://github.com/Afif2916/c4.5'
+        link: 'https://github.com/Afif2916/c4.5',
+        name: "Data Mining with C4.5"
     },
     {
         iconUrl: portalLogo,
         theme: 'btn-back-blue',
         description: 'Aplikasi Berbasis Web yg menyediakan Try Out Untuk program CPNS',
-        link: 'https://github.com/Afif2916/PortalTryOut'
+        link: 'https://github.com/Afif2916/PortalTryOut',
+        name: "Portal TryOut"
     },
     {
         iconUrl: portalLogo,
         theme: 'btn-back-blue',
         description: 'Aplikasi Berbasis Website untuk request graphic pada perusahaan METRO TV',
-        link: 'https://github.com/Afif2916/PortalTryOut'
+        link: 'https://github.com/Afif2916/PortalTryOut',
+        name: "Graphixity"
     },
     {
         iconUrl: portalLogo,
